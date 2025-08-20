@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Prevatt;Gretchen;;;
+FN:Gretchen Prevatt
+ORG:A+ Law;
+EMAIL;type=INTERNET;type=WORK;type=pref:GPrevatt@APlus.Law
+TEL;type=WORK;type=VOICE;type=pref:(561) 800-4LAW
+item1.ADR;type=WORK;type=pref:;;901 Forest Hill Blvd;West Palm Beach ;FL;33405;United States
+item1.X-ABADR:us
+NOTE:Senior Legal Assistant at A+ Law\n\nReal Estate\nCivil Matters\nEstates/Trusts\nPersonal Injury
+item2.URL;type=pref:http://www.APlus.Law/vCards/GPrevatt-vCard
+item2.X-ABLabel:Personal Page
+item3.URL:www.APlus.Law
+item3.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
