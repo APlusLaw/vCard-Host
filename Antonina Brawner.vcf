@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Brawner;Antonina;;;
+FN:Antonina Brawner
+ORG:A+ Law ;
+EMAIL;type=INTERNET;type=WORK;type=pref:ABrawner@APlus.Law
+TEL;type=CELL;type=VOICE;type=pref:(561) 827-6321
+TEL;type=WORK;type=VOICE:(561) 800-4LAW
+NOTE:Legal Assistant at A+ Law\n\nReal Estate\nCivil Matters\nEstates/Trusts\nPersonal Injury
+URL;type=WORK;type=pref:http://www.APlus.Law/vCards/ABrawner-vCard
+item1.URL:www.APlus.Law
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
